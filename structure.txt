@@ -1,0 +1,415 @@
+Folder PATH listing for volume Acer
+Volume serial number is 90AE-C213
+C:.
+³   about.php
+³   banner.php
+³   cart.php
+³   contact.php
+³   coursesubject.php
+³   dbgreenvalley.sql
+³   enrolment_form.php
+³   home.php
+³   index.php
+³   login.php
+³   logout.php
+³   LogSignModal.php
+³   menu.php
+³   menu1.php
+³   payment.php
+³   processcart.php
+³   regform.php
+³   register.php
+³   registrationform.php
+³   sidebar.php
+³   signup.php
+³   statementaccnt.php
+³   structure.txt
+³   subjectlist.php
+³   validatingsubject.php
+³   
+ÃÄÄÄadmin
+³   ³   home.php
+³   ³   index.php
+³   ³   login.php
+³   ³   logout.php
+³   ³   sidebar.php
+³   ³   
+³   ÃÄÄÄautonumber
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄback-up
+³   ³   ³   backuprestore.php
+³   ³   ³   backup_restore.class.php
+³   ³   ³   controller.php
+³   ³   ³   index.php
+³   ³   ³   
+³   ³   ÀÄÄÄbackup
+³   ÃÄÄÄclass
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       loaddata.php
+³   ³       
+³   ÃÄÄÄclassroom
+³   ³       index.php
+³   ³       schedules.php
+³   ³       schedulesPrint.php
+³   ³       
+³   ÃÄÄÄcourse
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄcss
+³   ³       bootstrap-social.css
+³   ³       bootstrap-theme.css
+³   ³       bootstrap-theme.min.css
+³   ³       bootstrap.css
+³   ³       bootstrap.min.css
+³   ³       costum.css
+³   ³       dataTables.bootstrap.css
+³   ³       metisMenu.css
+³   ³       metisMenu.min.css
+³   ³       morris.css
+³   ³       sb-admin-2.css
+³   ³       timeline.css
+³   ³       
+³   ÃÄÄÄdepartment
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄenrollees
+³   ³       add.php
+³   ³       addcreditsubject.php
+³   ³       addgrades.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       enrolledsubject.php
+³   ³       index.php
+³   ³       list.php
+³   ³       statementaccnt.php
+³   ³       success.php
+³   ³       
+³   ÃÄÄÄfont
+³   ³   ÃÄÄÄcss
+³   ³   ³       font-awesome.css
+³   ³   ³       font-awesome.min.css
+³   ³   ³       
+³   ³   ÀÄÄÄfonts
+³   ³           font-awesome.min.css
+³   ³           fontawesome-webfont.eot
+³   ³           fontawesome-webfont.svg
+³   ³           fontawesome-webfont.ttf
+³   ³           fontawesome-webfont.woff
+³   ³           FontAwesome.otf
+³   ³           glyphicons-halflings-regular.eot
+³   ³           glyphicons-halflings-regular.svg
+³   ³           glyphicons-halflings-regular.ttf
+³   ³           glyphicons-halflings-regular.woff
+³   ³           
+³   ÃÄÄÄinstructor
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄjquery
+³   ³       jquery.js
+³   ³       jquery.min.js
+³   ³       jquery.min.map
+³   ³       
+³   ÃÄÄÄjs
+³   ³       bootstrap.js
+³   ³       bootstrap.min.js
+³   ³       dataTables.bootstrap.js
+³   ³       dataTables.bootstrap.min.js
+³   ³       flot-data.js
+³   ³       janobe.js
+³   ³       jquery.dataTables.js
+³   ³       jquery.dataTables.min.js
+³   ³       metisMenu.js
+³   ³       metisMenu.min.js
+³   ³       morris-data.js
+³   ³       morris.js
+³   ³       morris.min.js
+³   ³       raphael-min.js
+³   ³       raphael.js
+³   ³       sb-admin-2.js
+³   ³       
+³   ÃÄÄÄmaintenance
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄreport
+³   ³       academicRecord.php
+³   ³       classrecord.php
+³   ³       index.php
+³   ³       list.php
+³   ³       listpercourseyear.php
+³   ³       listpersection.php
+³   ³       listpersemester.php
+³   ³       listpersubject.php
+³   ³       ListStudentPrint.php
+³   ³       ListStudents.php
+³   ³       loaddata.php
+³   ³       printClassrecord.php
+³   ³       printcourseyear.php
+³   ³       printlogs.php
+³   ³       printpersection.php
+³   ³       printpersemester.php
+³   ³       printpersubject.php
+³   ³       search.php
+³   ³       studentschedules.php
+³   ³       userlogs.php
+³   ³       
+³   ÃÄÄÄschedule
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       loaddata.php
+³   ³       
+³   ÃÄÄÄselect2
+³   ³   ³   select2.css
+³   ³   ³   select2.full.js
+³   ³   ³   select2.full.min.js
+³   ³   ³   select2.js
+³   ³   ³   select2.min.css
+³   ³   ³   select2.min.js
+³   ³   ³   
+³   ³   ÀÄÄÄi18n
+³   ³           az.js
+³   ³           bg.js
+³   ³           ca.js
+³   ³           cs.js
+³   ³           da.js
+³   ³           de.js
+³   ³           en.js
+³   ³           es.js
+³   ³           et.js
+³   ³           eu.js
+³   ³           fa.js
+³   ³           fi.js
+³   ³           fr.js
+³   ³           gl.js
+³   ³           he.js
+³   ³           hi.js
+³   ³           hr.js
+³   ³           hu.js
+³   ³           id.js
+³   ³           is.js
+³   ³           it.js
+³   ³           ko.js
+³   ³           lt.js
+³   ³           lv.js
+³   ³           mk.js
+³   ³           nb.js
+³   ³           nl.js
+³   ³           pl.js
+³   ³           pt-BR.js
+³   ³           pt.js
+³   ³           ro.js
+³   ³           ru.js
+³   ³           sk.js
+³   ³           sr.js
+³   ³           sv.js
+³   ³           th.js
+³   ³           tr.js
+³   ³           uk.js
+³   ³           vi.js
+³   ³           zh-CN.js
+³   ³           zh-TW.js
+³   ³           
+³   ÃÄÄÄslimScroll
+³   ³       jquery.slimscroll.js
+³   ³       jquery.slimscroll.min.js
+³   ³       
+³   ÃÄÄÄstudent
+³   ³       add.php
+³   ³       addgrade.php
+³   ³       addmodalgrades.php
+³   ³       controller.php
+³   ³       index.php
+³   ³       list.php
+³   ³       printgrades.php
+³   ³       view.php
+³   ³       viewgrade.php
+³   ³       
+³   ÃÄÄÄsubject
+³   ³       add.php
+³   ³       controller.php
+³   ³       edit.php
+³   ³       index.php
+³   ³       list.php
+³   ³       
+³   ÃÄÄÄtheme
+³   ³       templates.php
+³   ³       
+³   ÀÄÄÄuser
+³       ³   add.php
+³       ³   controller.php
+³       ³   edit.php
+³       ³   index.php
+³       ³   list.php
+³       ³   
+³       ÀÄÄÄphotos
+³               10329236_874204835938922_6636897990257224477_n.jpg
+³               ava.jpg
+³               COC-war-base-design.jpg
+³               download (2).jpg
+³               LoginRed.jpg
+³               
+ÃÄÄÄcart
+³       addtocart.php
+³       captcha_code_file.php
+³       cartlist.php
+³       controller.php
+³       monofont.ttf
+³       terms.php
+³       
+ÃÄÄÄcss
+³       bootstrap-datetimepicker.css
+³       bootstrap-datetimepicker.min.css
+³       bootstrap-social.css
+³       bootstrap-theme.css
+³       bootstrap-theme.min.css
+³       bootstrap.css
+³       bootstrap.min.css
+³       costum.css
+³       dataTables.bootstrap.css
+³       datepicker.css
+³       ekko-lightbox.css
+³       ekko-lightbox.min.css
+³       modern.css
+³       sb-admin-2.css
+³       timeline.css
+³       
+ÃÄÄÄfont
+³   ÃÄÄÄcss
+³   ³       font-awesome.css
+³   ³       font-awesome.min.css
+³   ³       
+³   ÀÄÄÄfonts
+³           font-awesome.min.css
+³           fontawesome-webfont.eot
+³           fontawesome-webfont.svg
+³           fontawesome-webfont.ttf
+³           fontawesome-webfont.woff
+³           FontAwesome.otf
+³           glyphicons-halflings-regular.eot
+³           glyphicons-halflings-regular.svg
+³           glyphicons-halflings-regular.ttf
+³           glyphicons-halflings-regular.woff
+³           
+ÃÄÄÄimg
+³       bg.jpg
+³       BTNPAYNOW.png
+³       btn_paynow_LG.gif
+³       K12Ready.jpg
+³       Kto12.jpg
+³       paynow.png
+³       school_seal_100x100.jpg
+³       school_seal_100x100.png
+³       set_banner.jpg
+³       set_building.jpg
+³       Set_logo.jpg
+³       
+ÃÄÄÄinclude
+³       accounts.php
+³       autonumbers.php
+³       ay.php
+³       backup_restore.class.php
+³       classes.php
+³       config.php
+³       courses.php
+³       database.php
+³       database_dbgreenvalley.sql
+³       departments.php
+³       function.php
+³       grades.php
+³       initialize.php
+³       instructors.php
+³       schedules.php
+³       semester.php
+³       session.php
+³       sidebarFunction.php
+³       studentdetails.php
+³       students.php
+³       studentschedule.php
+³       studentsubjects.php
+³       subjects.php
+³       
+ÃÄÄÄinput-mask
+³   ³   jquery.inputmask.date.extensions.js
+³   ³   jquery.inputmask.extensions.js
+³   ³   jquery.inputmask.js
+³   ³   jquery.inputmask.numeric.extensions.js
+³   ³   jquery.inputmask.phone.extensions.js
+³   ³   jquery.inputmask.regex.extensions.js
+³   ³   meiomask.js
+³   ³   meiomask.min.js
+³   ³   
+³   ÀÄÄÄphone-codes
+³           phone-be.json
+³           phone-codes.json
+³           readme.txt
+³           
+ÃÄÄÄjquery
+³       jquery.js
+³       jquery.min.js
+³       jquery.min.map
+³       
+ÃÄÄÄjs
+³   ³   bootstrap-datepicker.js
+³   ³   bootstrap-datetimepicker.js
+³   ³   bootstrap-datetimepicker.min.js
+³   ³   bootstrap.js
+³   ³   bootstrap.min.js
+³   ³   dataTables.bootstrap.js
+³   ³   dataTables.bootstrap.min.js
+³   ³   ekko-lightbox.js
+³   ³   ekko-lightbox.min.js
+³   ³   janobe.js
+³   ³   jquery.dataTables.js
+³   ³   jquery.dataTables.min.js
+³   ³   
+³   ÀÄÄÄlocales
+³           bootstrap-datetimepicker.uk.js
+³           
+ÃÄÄÄstudent
+³   ³   changingdropping.php
+³   ³   controller.php
+³   ³   printschedule.php
+³   ³   profile.php
+³   ³   studentgrades.php
+³   ³   updateaccounts.php
+³   ³   updateyearlevel.php
+³   ³   
+³   ÀÄÄÄstudent_image
+³           1.jpg
+³           2.jpg
+³           45141_140190622685454_4153684_n.jpg
+³           ava.jpg
+³           avatar.jpg
+³           avatar.png
+³           close.jpg
+³           
+ÀÄÄÄtheme
+        templates.php
+        
